@@ -1,6 +1,6 @@
 # Exploring User-Generated Content (UGC) and Cross-Cultural Impact on YouTube: Insights from Chinese Dramas
 
-![Header image](Header image.jpg)
+![Alt Text](Header image.JPG)
 
 ## Abstract
 
